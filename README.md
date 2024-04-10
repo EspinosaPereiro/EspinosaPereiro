@@ -1,0 +1,7 @@
+- @EspinosaPereiro
+- MD Internal Medicine and Infectious Diseases
+- PhD candidate at Universitat Autónoma de Barcelona
+- Working at the International Health Unit Vall d’Hebron-Drassanes, Infectious Diseases Department, Vall d’Hebron University Hospital, Barcelona, Spain. PROSICS Barcelona. National Referral Center (CSUR) Imported Tropical Diseases.
+- Researcher in national and international projects, such as the now completed EUSAT-RCS (grant number 823890, https://www.eusattb.net/) and EU-PEARL (grant number 853966, https://eu-pearl.eu/)
+- Special interest in systematic reviews, network meta-analysis, and clinical trials.
+- Now learning R programming with https://www.coursera.org/specializations/data-science-foundations-r
